@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2794125994
+CRC: 1916357177
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9afc4626a8a12b4767bedb287aa46406
+    Hash: 4de4af6b77883d12540de812e943b7f4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7c9f0c774f7d1903bd1e8c798f367eb3
@@ -31,7 +31,6 @@ Assets:
 - Assets/Resources/Materials/Guard_Steel.mat
 - Assets/Resources/Materials/Guard_DarkGray.mat
 - Assets/Resources/Materials/Guard_White.mat
-- Assets/3D/droneUFO_LED.fbx
 - Assets/Resources/Materials/Guard_Plastic.mat
 - Assets/Resources/Textures/insulation_N.png
 - Assets/Resources/Materials/Guard_SmallNet.mat
@@ -44,9 +43,7 @@ Assets:
 - Assets/Resources/Materials/Guard_Motor.mat
 - Assets/Resources/Materials/Guard_SteelNet.mat
 - Assets/Resources/Materials/Guard_Net_1.mat
-- Assets/3D/droneStarwars_LED.fbx
 - Assets/Resources/Materials/Guard_Net.mat
-- Assets/3D/droneStarwars.fbx
 - Assets/Resources/Materials/Guard_Insulate.mat
 - Assets/Resources/Textures/Carbon.png
 - Assets/Resources/Textures/stform.png
@@ -55,6 +52,7 @@ Assets:
 - Assets/Resources/Materials/Guard_Form.mat
 - Assets/Resources/Materials/LED.mat
 - Assets/Resources/Textures/plastic.png
+- Assets/3D/drone_guard0.fbx
 - Assets/Resources/Materials/Guard_Color1.mat
 - Assets/Resources/Textures/insulation.png
 - Assets/Resources/Materials/Guard_Texture_1.mat
@@ -62,5 +60,4 @@ Assets:
 - Assets/Resources/Textures/Starwars_frame.png
 - Assets/Resources/Materials/Guard_Prop.mat
 - Assets/Resources/Textures/SmallNet.png
-- Assets/3D/droneUFO.fbx
 Dependencies: []
