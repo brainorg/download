@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3483149774
+CRC: 3537492934
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 789bb0d4ec2bd1ab751c08637d8be12b
+    Hash: fb714b865c53fdb839274eea935b0b3c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7c9f0c774f7d1903bd1e8c798f367eb3
@@ -52,7 +52,6 @@ Assets:
 - Assets/Resources/Materials/Guard_Form.mat
 - Assets/Resources/Materials/LED.mat
 - Assets/Resources/Textures/plastic.png
-- Assets/3D/drone_guard0.fbx
 - Assets/Resources/Materials/Guard_Color1.mat
 - Assets/Resources/Textures/insulation.png
 - Assets/Resources/Materials/Guard_Texture_1.mat
