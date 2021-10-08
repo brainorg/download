@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1916357177
+CRC: 3483149774
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4de4af6b77883d12540de812e943b7f4
+    Hash: 789bb0d4ec2bd1ab751c08637d8be12b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7c9f0c774f7d1903bd1e8c798f367eb3
@@ -56,7 +56,7 @@ Assets:
 - Assets/Resources/Materials/Guard_Color1.mat
 - Assets/Resources/Textures/insulation.png
 - Assets/Resources/Materials/Guard_Texture_1.mat
-- Assets/Resources/Prefabs/drone_guard1.prefab
+- Assets/Resources/Prefabs/drone_guard0.prefab
 - Assets/Resources/Textures/Starwars_frame.png
 - Assets/Resources/Materials/Guard_Prop.mat
 - Assets/Resources/Textures/SmallNet.png
