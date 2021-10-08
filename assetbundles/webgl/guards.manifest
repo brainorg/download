@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 438346326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac8b7d82bc0a49182e2c07eb8386a69d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c9f0c774f7d1903bd1e8c798f367eb3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Materials/Guard_Steel.mat
+- Assets/Resources/Materials/Guard_DarkGray.mat
+- Assets/Resources/Materials/Guard_White.mat
+- Assets/3D/droneUFO_LED.fbx
+- Assets/Resources/Materials/Guard_Plastic.mat
+- Assets/Resources/Prefabs/drone_guard4.prefab
+- Assets/Resources/Prefabs/drone_guard5.prefab
+- Assets/Resources/Materials/drone/Drone_Steel.mat
+- Assets/Resources/Materials/Guard_Carbon.mat
+- Assets/Resources/Textures/drone_guard_2.png
+- Assets/Resources/Materials/Guard_Color.mat
+- Assets/Resources/Prefabs/drone_guard3.prefab
+- Assets/3D/droneStarwars_LED.fbx
+- Assets/Resources/Materials/Guard_Net.mat
+- Assets/3D/droneStarwars.fbx
+- Assets/Resources/Textures/drone_Carbon.png
+- Assets/Resources/Textures/big_net.png
+- Assets/Resources/Materials/LED.mat
+- Assets/Resources/Textures/guard_plastic.png
+- Assets/Resources/Prefabs/drone_guard0.prefab
+- Assets/Resources/Materials/Guard_Texture_1.mat
+- Assets/Resources/Prefabs/drone_guard2.prefab
+- Assets/Resources/Prefabs/drone_guard1.prefab
+- Assets/Resources/Textures/Starwars_frame.png
+- Assets/3D/droneUFO.fbx
+Dependencies: []
